@@ -1,4 +1,4 @@
-# RGB-D DOMAIN ADAPTATION PROJECT
+# Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition
 Final project of the course Machine Learning and Deep Learning at Politecnico di Torino developed by me and my colleague Marco Gullotto, @MarcoChain here on GitHub.
 The repository includes the following files:
 - Demp.py contains the CNN's architecture;
