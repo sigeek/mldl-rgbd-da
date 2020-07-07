@@ -6,3 +6,5 @@ The repository includes the following files:
 - Accuracy.py contains the functions used for testing the models;
 - Functions.py contains a miscellaneus of classes and functions: class to compute cross entropy and function to visualize the images;
 - main.ipynb contains all the implementations of our experiments.
+
+![alt text](https://raw.githubusercontent.com/sigeek/rgbd-da-project/master/docs/header.png)
