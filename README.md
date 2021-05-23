@@ -1,5 +1,5 @@
 # Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition
-Final project of the course Machine Learning and Deep Learning at Politecnico di Torino developed by me and my colleague Marco Gullotto, @MarcoChain here on GitHub. The aim of the project is to replicate some experiments of Loghmani et al. paper (https://arxiv.org/pdf/2004.10016.pdf) and to implement two new variations of the algorithm.
+Final project of the course Machine Learning and Deep Learning at Politecnico di Torino developed by me and my colleague Marco Gullotto, [MarcoChain](https://github.com/MarcoChain). The aim of the project is to replicate some experiments of Loghmani et al. paper (https://arxiv.org/pdf/2004.10016.pdf) and to implement two new variations of the algorithm.
 The repository includes the following files:
 - [`presentation`](./docs/mldl-project-slides.pdf) to have a quick overview of the project;
 - Demp.py contains the CNN's architecture;
